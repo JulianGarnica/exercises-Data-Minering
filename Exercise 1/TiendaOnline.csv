@@ -1,0 +1,21 @@
+ID,Nombre,Edad,Sexo,Categoría de Producto,Compras en el Último Año,Ingreso Anual
+1,Ana Martínez,34,Femenino,Electrónica,5,7500
+2,Juan Pérez,28,Masculino,Electrodomésticos,2,3500
+3,Laura Gómez,40,Femenino,Libros,7,2500
+4,Pedro Ruiz,30,Masculino,Electrónica,3,6000
+5,Marta Díaz,22,Femenino,Electrodomésticos,1,1800
+6,Lucas Fernández,45,Masculino,Electrónica,6,9200
+7,Claudia Moreno,36,Femenino,Libros,4,4000
+8,Ricardo Torres,27,Masculino,Electrodomésticos,5,5000
+9,Isabel Vargas,33,Femenino,Electrónica,2,3000
+10,Sergio González,29,Masculino,Libros,8,1500
+11,Natalia Cruz,38,Femenino,Electrodomésticos,3,4500
+12,Roberto Sánchez,31,Masculino,Electrónica,4,5500
+13,Valeria López,24,Femenino,Libros,6,2300
+14,Javier Ortega,42,Masculino,Electrodomésticos,7,6000
+15,Carla Ruiz,29,Femenino,Electrónica,8,7200
+16,Daniela Morales,34,Femenino,Libros,3,3500
+17,Andrés Soto,26,Masculino,Electrodomésticos,2,2000
+18,María Jiménez,39,Femenino,Electrónica,5,8000
+19,Oscar López,27,Masculino,Libros,7,1200
+20,Elena Martínez,32,Femenino,Electrodomésticos,4,3000
